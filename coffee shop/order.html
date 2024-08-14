@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coffee Shop - Order</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+         <!-- Logo -->
+         <div id="logo">
+            <img src="images/logo.png" alt="Coffee Shop Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="order.html">Order</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Place Your Order</h1>
+
+            <form id="order-form">
+                <label for="coffee-type">Select Coffee:</label>
+                <select id="coffee-type" name="coffee-type">
+                    <option value="espresso">Espresso</option>
+                    <option value="americano">Americano</option>
+                    <option value="cappuccino">Cappuccino</option>
+                    <option value="latte">Latte</option>
+                    <option value="mocha">Mocha</option>
+                    <option value="macchiato">Macchiato</option>
+                </select>
+                <label for="quantity">Quantity:</label>
+                <input type="number" id="quantity" name="quantity" required>
+                <button type="submit">Order</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Coffee Shop</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
