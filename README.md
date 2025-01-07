@@ -2,8 +2,7 @@
 coffee shop website as a training
 
 
-https://github.com/user-attachments/assets/526c72da-e522-495a-8997-15c632f9d562
-
+https://github.com/user-attachments/assets/73c31dba-d696-466d-affa-180c69d9eb8d
 
 
 
