@@ -1,8 +1,8 @@
 # coffee-shop
 coffee shop website as a training
 
-](https://github.com/user-attachments/assets/1b25c3ee-53e3-460d-a19b-e4f7564f28d9
-)
+https://github.com/user-attachments/assets/1b25c3ee-53e3-460d-a19b-e4f7564f28d9
+
 
 Key Features:
 
